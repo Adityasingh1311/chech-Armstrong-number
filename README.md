@@ -1,1 +1,1 @@
-# chech-Armstrong-number
+# check-Armstrong-number
